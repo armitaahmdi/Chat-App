@@ -14,7 +14,10 @@
 }
 
 .logout {
+<<<<<<< HEAD
     cursor: pointer;
+=======
+>>>>>>> 88dfb9a11bcf5741ccbadef0a3ad743e12a51a47
     background-color: #0f9d58;
     padding: 5px 10px;
     border-radius: 5px;
@@ -23,5 +26,9 @@
 }
 
 .logout:hover {
+<<<<<<< HEAD
     background-color: #07713e;
+=======
+    background-color: #0f9d58;
+>>>>>>> 88dfb9a11bcf5741ccbadef0a3ad743e12a51a47
 }
