@@ -72,11 +72,11 @@ const Chats = () => {
             <Navbar logoutHandler={logoutHandler} />
 
             <ChatEngine
-                height='calc(100vh - 50px)'
+                height = 'calc(100vh - 50px)'
                 // baraye che kase in safhe chat ro neshon bede
-                prpjectID='826b85b4-1aa9-479d-8800-987fae847d5b'
-                userName={user.email}
-                userSecret={user.uid}
+                projectID = '826b85b4-1aa9-479d-8800-987fae847d5b'
+                userName = {user.email}
+                userSecret = {user.uid}
             />
         </div>
     );
